@@ -1,0 +1,5 @@
+1. Jobs -> pokazuje wszystkie jobs uruchomione w aplikacji (status, czas trwanie, ich ilosc)
+2. Stages -> Opis etapów ( aktywne,completed i pending, czas trwania, ilosc danych, informacje o przemieszczeniach i dystrybucji danych)
+3. Storage -> info o przetrzymywaniu rdd/dataframeow (nazwa i typ danych, liczba partycji, rozmiar)
+4. Executors -> info o executorach (ilosc zuzytej pamieci, czas procesora, ilosc taskow, rozklad obciazen i info o dystrybucji danych)
+5. SQL/DATAFRAME -> pokazuje query (przekształcenia, czas trwania)
